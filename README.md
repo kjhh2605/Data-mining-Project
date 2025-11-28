@@ -54,7 +54,7 @@
 - 충남: 서산, 당진
 - 강원: 춘천, 강릉
 - 전북: 군산, 익산
-- 
+
 <img width="1300" height="700" alt="스크린샷 2025-11-29 오전 12 23 53" src="https://github.com/user-attachments/assets/786f1496-894d-4d75-8f13-669dc61a0295" />
 
 ### 5. 예측 모델
