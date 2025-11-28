@@ -33,8 +33,7 @@
 - **K-means**: 4개 군집으로 지역 분류
 
 ### 3. 군집 해석
-![image.png](attachment:a47daa77-bf81-4d9d-9afa-e42e18fcc7dd:image.png)
-![image.png](attachment:0014d211-f6ef-43b6-8574-efa5fc0763b2:image.png)
+<img width="1300" height="700" alt="스크린샷 2025-11-29 오전 12 22 37" src="https://github.com/user-attachments/assets/9d113932-9bdf-4580-bc04-79b9edcb89e6" />
 | 군집 | 특징 | 대표 지역 |
 |------|------|-----------|
 | **군집 A** | 높은 미세먼지 + 높은 유해시설 | 울산, 평택, 여수, 구미, 안산 등 |
@@ -46,15 +45,17 @@
 
 ### 4. 기존 기준과 비교
 
-기존 의료취약점수(0.515점 미달 기준) 대비, 새롭게 발견된 의료 취약 지역:
-![image.png](attachment:0529568b-be43-46b6-bb55-50422d73a8ad:image.png)
+기존 의료취약점수(0.515점 미달 기
+<img width="1300" height="700" alt="스크린샷 2025-11-29 오전 12 23 23" src="https://github.com/user-attachments/assets/974ad8fb-2859-401b-899d-5fa5df799e98" />
+준) 대비, 새롭게 발견된 의료 취약 지역:
+
 - 경기: 동두천, 안성, 포천
 - 충북: 충주, 제천, 증평, 음성
 - 충남: 서산, 당진
 - 강원: 춘천, 강릉
 - 전북: 군산, 익산
+<img width="1300" height="700" alt="스크린샷 2025-11-29 오전 12 23 53" src="https://github.com/user-attachments/assets/786f1496-894d-4d75-8f13-669dc61a0295" />
 
-![image.png](attachment:a7843257-c06c-42a3-92fd-6ae1320919de:image.png)
 
 ### 5. 예측 모델
 
